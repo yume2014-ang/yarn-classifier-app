@@ -11,6 +11,8 @@
 <img src="images/App_top_1.png" width="600px" alt="App Top View">
 </p>
 
+<br>
+
 ---
 
 ## 📋 アプリの概要
@@ -31,6 +33,8 @@
 <img src="images/App_top_3.png" width="45%" alt="Analysis Result">
 </p>
 <p align="center">左：画像アップロード画面 / 右：AIによる解析結果表示</p>
+
+<br>
 
 ---
 
