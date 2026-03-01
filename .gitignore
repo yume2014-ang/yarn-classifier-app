@@ -1,0 +1,29 @@
+# 環境固有のフォルダ
+ve_yarn_312/
+models/
+他の人がこのアプリを使いたい時、ターミナルで以下のコマンドを1行打つだけで準備が完了する.txt
+main_gcam_gpu変更前.py
+StreamlitインストールのためPythonをdowngrade(3.12.10).txt
+
+# Python のキャッシュ
+__pycache__/
+*.pyc
+
+# OS 固有のファイル
+.DS_Store
+Thumbs.db
+
+# 仮想環境（もし作成していれば）
+.venv/
+venv/
+env/
+
+# ログファイルを無視
+*.log
+
+# 一時ファイルを無視
+*.tmp
+*.temp
+
+# Streamlit の一時ファイル
+.streamlit/config.toml
